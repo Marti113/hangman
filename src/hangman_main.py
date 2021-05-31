@@ -10,6 +10,7 @@
 #Two final outcomes:
 #1: User guesses the word (they win)
 #2: The hangman drawing is complete, user loses, word is revealed
+
 class Hangman:
 
     def __init__(self, guessed_letters):
